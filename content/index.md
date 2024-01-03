@@ -23,7 +23,7 @@ Act I - Puffins are cute
 ::
 
 ::text-block
-lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Puffins are undeniably adorable birds, with their distinctive appearance and charming demeanor. These seabirds boast a captivating combination of features that contribute to their cuteness. Their comically large, vibrant orange bills, adorned with distinctive markings, add a touch of whimsy to their overall appearance. Puffins also sport a contrasting black and white plumage, reminiscent of a tuxedo, enhancing their endearing charm. What truly sets them apart, however, is their expressive, soulful eyes, which exude a sense of curiosity and playfulness.
 ::
 
 <!-- ## Act II -->
