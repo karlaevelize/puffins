@@ -1,0 +1,1 @@
+import{d as s,b as a,c as o,e as c}from"./entry.FdPbBNvI.js";const r={class:"px-2 py-7"},t=["src"],m=s({__name:"ImageBlock",props:{imageUrl:{}},setup(l){return(e,n)=>(a(),o("div",r,[c("img",{class:"grayscale rounded-full aspect-square w-72 mx-auto",src:e.imageUrl},null,8,t)]))}});export{m as default};

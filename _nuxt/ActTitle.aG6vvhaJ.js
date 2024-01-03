@@ -1,0 +1,1 @@
+import{k as t,b as s,c,B as o}from"./entry.FdPbBNvI.js";const r={},n={class:"py-5 font-semibold text-2xl tracking-wider"};function a(e,l){return s(),c("h2",n,[o(e.$slots,"default")])}const d=t(r,[["render",a]]);export{d as default};
