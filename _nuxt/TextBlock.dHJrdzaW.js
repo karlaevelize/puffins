@@ -1,1 +1,0 @@
-import{k as s,b as t,c,e as o,B as a}from"./entry.d8oivgi3.js";const r={},n={class:"px-2 py-7"},_={class:""};function l(e,d){return t(),c("div",n,[o("p",_,[a(e.$slots,"default")])])}const p=s(r,[["render",l]]);export{p as default};

@@ -1,0 +1,1 @@
+import{k as t,b as s,c as o,B as c}from"./entry.ppsB-cJ5.js";const n={},r={class:"py-5 font-bold text-3xl tracking-widest"};function a(e,l){return s(),o("h2",r,[c(e.$slots,"default")])}const d=t(n,[["render",a]]);export{d as default};
