@@ -36,7 +36,7 @@ Act II - Puffins are curious
 ::
 
 ::text-block
-lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Puffins are not only cute but also remarkably curious creatures, constantly exploring their surroundings with an inquisitive nature. These seabirds exhibit a keen interest in their environment, often observing their fellow puffins, marine life, and the world around them. Their curiosity is particularly evident when they engage in playful interactions, whether engaging in social bonding rituals with other puffins or investigating their nesting sites with an almost childlike wonder.
 ::
 
 <!-- ## Act III -->
